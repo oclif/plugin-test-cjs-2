@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/oclif/plugin-test-cjs-2/compare/0.2.6...0.3.0) (2023-08-14)
+
+
+### Features
+
+* use execute in bin scripts ([334f5b0](https://github.com/oclif/plugin-test-cjs-2/commit/334f5b0577d15ef37e3193b4d3d437fb7dae67f6))
+
+
+
 ## [0.2.6](https://github.com/oclif/plugin-test-cjs-2/compare/0.2.5...0.2.6) (2023-08-13)
 
 
