@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/oclif/plugin-test-cjs-2/compare/0.4.3...0.5.0) (2023-08-21)
+
+
+### Features
+
+* remove ts-node/esm shebang ([8fe80d2](https://github.com/oclif/plugin-test-cjs-2/commit/8fe80d2e35c89bcd005db04e2169aa020a681d34))
+
+
+
 ## [0.4.3](https://github.com/oclif/plugin-test-cjs-2/compare/0.4.2...0.4.3) (2023-08-20)
 
 
