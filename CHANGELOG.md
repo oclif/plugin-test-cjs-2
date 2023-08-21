@@ -1,3 +1,12 @@
+## [0.5.1](https://github.com/oclif/plugin-test-cjs-2/compare/0.5.0...0.5.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* remove type from execute ([e1121e1](https://github.com/oclif/plugin-test-cjs-2/commit/e1121e1a0efd77e72c58aad71704c3b175a735b0))
+
+
+
 # [0.5.0](https://github.com/oclif/plugin-test-cjs-2/compare/0.4.3...0.5.0) (2023-08-21)
 
 
