@@ -2,5 +2,5 @@
 
 (async () => {
   const oclif = await import('@oclif/core')
-  await oclif.execute({type: 'cjs', dir: __dirname})
+  await oclif.execute({dir: __dirname})
 })()

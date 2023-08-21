@@ -2,5 +2,5 @@
 // eslint-disable-next-line node/shebang
 (async () => {
   const oclif = await import('@oclif/core')
-  await oclif.execute({type: 'cjs', development: true, dir: __dirname})
+  await oclif.execute({development: true, dir: __dirname})
 })()
