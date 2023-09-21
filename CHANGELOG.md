@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/oclif/plugin-test-cjs-2/compare/0.5.10...0.6.0) (2023-09-21)
+
+
+### Features
+
+* add flags and args ([f138ca9](https://github.com/oclif/plugin-test-cjs-2/commit/f138ca951e2a592d4c851a09543dfe522206b44e))
+
+
+
 ## [0.5.10](https://github.com/oclif/plugin-test-cjs-2/compare/0.5.9...0.5.10) (2023-09-10)
 
 
