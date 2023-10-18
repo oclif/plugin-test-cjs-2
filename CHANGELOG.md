@@ -1,3 +1,12 @@
+## [0.6.6](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.5...0.6.6) (2023-10-18)
+
+
+### Bug Fixes
+
+* **deps:** bump @babel/traverse from 7.16.3 to 7.23.2 ([d9606fe](https://github.com/oclif/plugin-test-cjs-2/commit/d9606fed5acb89cdb7ef8b5e4f92bfbc8271d836))
+
+
+
 ## [0.6.5](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.4...0.6.5) (2023-10-14)
 
 
