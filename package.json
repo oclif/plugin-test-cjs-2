@@ -1,6 +1,6 @@
 {
   "name": "@oclif/plugin-test-cjs-2",
-  "version": "0.6.15",
+  "version": "0.6.16",
   "description": "Test CJS plugin",
   "author": "Salesforce",
   "bin": {
