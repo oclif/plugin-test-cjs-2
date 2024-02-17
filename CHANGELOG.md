@@ -1,3 +1,12 @@
+## [0.6.21](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.20...0.6.21) (2024-02-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.19.1 to 3.19.2 ([d1ea156](https://github.com/oclif/plugin-test-cjs-2/commit/d1ea1566f7b1f7c60a60ebf5a6fff2fe21ec6f41))
+
+
+
 ## [0.6.20](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.19...0.6.20) (2024-02-10)
 
 
