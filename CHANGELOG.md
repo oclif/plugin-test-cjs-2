@@ -1,3 +1,138 @@
+## [0.6.24](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.23...0.6.24) (2024-03-02)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.19.6 to 3.20.0 ([8f55038](https://github.com/oclif/plugin-test-cjs-2/commit/8f550387e91b7f5a180bdabff2a68df51c2c6ecb))
+
+
+
+## [0.6.23](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.22...0.6.23) (2024-02-24)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.19.2 to 3.19.6 ([cbf63b1](https://github.com/oclif/plugin-test-cjs-2/commit/cbf63b1fc075af2ace6a45dedb179150557e8eef))
+
+
+
+## [0.6.22](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.21...0.6.22) (2024-02-21)
+
+
+### Bug Fixes
+
+* **deps:** bump ip from 2.0.0 to 2.0.1 ([0763606](https://github.com/oclif/plugin-test-cjs-2/commit/0763606f509f66c03ed0f054c3932902014822ed))
+
+
+
+## [0.6.21](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.20...0.6.21) (2024-02-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.19.1 to 3.19.2 ([d1ea156](https://github.com/oclif/plugin-test-cjs-2/commit/d1ea1566f7b1f7c60a60ebf5a6fff2fe21ec6f41))
+
+
+
+## [0.6.20](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.19...0.6.20) (2024-02-10)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.18.2 to 3.19.1 ([e9a6103](https://github.com/oclif/plugin-test-cjs-2/commit/e9a6103dc0564b8aae53098608e997a1f6390588))
+
+
+
+## [0.6.19](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.18...0.6.19) (2024-02-03)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.18.1 to 3.18.2 ([1a02fe4](https://github.com/oclif/plugin-test-cjs-2/commit/1a02fe4cd7937f279dfbb67b9eb1aea4279d7f21))
+
+
+
+## [0.6.18](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.17...0.6.18) (2024-01-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.16.0 to 3.18.1 ([ae7728a](https://github.com/oclif/plugin-test-cjs-2/commit/ae7728aa4616d549a47f48f96e4132d8d5824ac8))
+
+
+
+## [0.6.17](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.16...0.6.17) (2024-01-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.15.1 to 3.16.0 ([83114d6](https://github.com/oclif/plugin-test-cjs-2/commit/83114d646c376a41d542c1bfda17c4976c4af08b))
+
+
+
+## [0.6.16](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.15...0.6.16) (2023-12-30)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.15.0 to 3.15.1 ([7dd03b3](https://github.com/oclif/plugin-test-cjs-2/commit/7dd03b3a9b635a155973348c92cdb7564e8b0bfc))
+
+
+
+## [0.6.15](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.14...0.6.15) (2023-12-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.14.1 to 3.15.0 ([e2e218e](https://github.com/oclif/plugin-test-cjs-2/commit/e2e218e70dbd5725546ce31d697d75967451a90a))
+
+
+
+## [0.6.14](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.13...0.6.14) (2023-12-09)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.12.0 to 3.14.1 ([4636efc](https://github.com/oclif/plugin-test-cjs-2/commit/4636efc4073408c1643e559f2fbb11a8382bbd5c))
+
+
+
+## [0.6.13](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.12...0.6.13) (2023-11-25)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.11.0 to 3.12.0 ([3441d85](https://github.com/oclif/plugin-test-cjs-2/commit/3441d85e282cfda2ad4c01badd13fadab2544b8c))
+
+
+
+## [0.6.12](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.11...0.6.12) (2023-11-18)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.10.8 to 3.11.0 ([1ca48f4](https://github.com/oclif/plugin-test-cjs-2/commit/1ca48f4acde67be8e45fd2b85432b8fd35b844a4))
+
+
+
+## [0.6.11](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.10...0.6.11) (2023-11-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.10.1 to 3.10.8 ([d83fdbb](https://github.com/oclif/plugin-test-cjs-2/commit/d83fdbbcbcdca46509efa79125bb508adfb2e26a))
+
+
+
+## [0.6.10](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.9...0.6.10) (2023-11-04)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 3.9.1 to 3.10.1 ([c521d4e](https://github.com/oclif/plugin-test-cjs-2/commit/c521d4e8a524f6a9993e47ac16868f6080c64e43))
+
+
+
 ## [0.6.9](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.8...0.6.9) (2023-10-28)
 
 
