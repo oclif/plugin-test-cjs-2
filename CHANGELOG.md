@@ -1,3 +1,12 @@
+## [0.6.25](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.24...0.6.25) (2024-03-04)
+
+
+### Bug Fixes
+
+* upgrade plugin-plugins ([b9f0e5c](https://github.com/oclif/plugin-test-cjs-2/commit/b9f0e5c8ff44924c2159b8d88c0473a341128728))
+
+
+
 ## [0.6.24](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.23...0.6.24) (2024-03-02)
 
 
