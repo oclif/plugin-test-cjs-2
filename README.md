@@ -18,7 +18,7 @@ $ npm install -g @oclif/plugin-test-cjs-2
 $ cjs2 COMMAND
 running command...
 $ cjs2 (--version)
-@oclif/plugin-test-cjs-2/0.6.30 linux-x64 node-v18.20.1
+@oclif/plugin-test-cjs-2/0.6.31 linux-x64 node-v18.20.2
 $ cjs2 --help [COMMAND]
 USAGE
   $ cjs2 COMMAND
@@ -49,7 +49,7 @@ FLAGS
   --optionalString=<value>
 ```
 
-_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.6.30/src/commands/cjs2.ts)_
+_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.6.31/src/commands/cjs2.ts)_
 
 ## `cjs2 help [COMMANDS]`
 
