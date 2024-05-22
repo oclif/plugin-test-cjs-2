@@ -18,19 +18,19 @@
   ],
   "dependencies": {
     "@oclif/core": "^3.26.6",
-    "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^3.9.4"
+    "@oclif/plugin-help": "^6",
+    "@oclif/plugin-plugins": "^5"
   },
   "devDependencies": {
-    "@oclif/test": "^2.5.6",
+    "@oclif/test": "^4",
     "@types/chai": "^4",
-    "@types/mocha": "^9.0.0",
+    "@types/mocha": "^10",
     "@types/node": "^16.18.97",
     "chai": "^4",
     "eslint": "^7",
     "eslint-config-oclif": "^4",
     "eslint-config-oclif-typescript": "^1.0.3",
-    "mocha": "^9",
+    "mocha": "^10",
     "oclif": "^3.17.2",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
