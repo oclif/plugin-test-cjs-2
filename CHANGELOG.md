@@ -1,3 +1,12 @@
+## [0.6.34](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.33...0.6.34) (2024-05-22)
+
+
+### Bug Fixes
+
+* use oclif/test v4 ([4a2def3](https://github.com/oclif/plugin-test-cjs-2/commit/4a2def3c48bd1c19d6e8d07154db912324320f51))
+
+
+
 ## [0.6.33](https://github.com/oclif/plugin-test-cjs-2/compare/0.6.32...0.6.33) (2024-05-11)
 
 
