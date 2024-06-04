@@ -2,5 +2,8 @@
   "extends": [
     "oclif",
     "oclif-typescript"
-  ]
+  ],
+  "rules": {
+    "perfectionist/sort-objects": "off"
+  }
 }
