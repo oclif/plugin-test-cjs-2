@@ -1,3 +1,12 @@
+## [0.7.23](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.22...0.7.23) (2024-08-24)
+
+
+### Bug Fixes
+
+* **deps:** bump micromatch from 4.0.4 to 4.0.8 ([#174](https://github.com/oclif/plugin-test-cjs-2/issues/174)) ([c2089e3](https://github.com/oclif/plugin-test-cjs-2/commit/c2089e3f983564af7281698533d9d9b932ad52d3))
+
+
+
 ## [0.7.22](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.21...0.7.22) (2024-08-17)
 
 
