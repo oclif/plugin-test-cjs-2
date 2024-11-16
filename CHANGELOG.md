@@ -1,3 +1,12 @@
+## [0.7.43](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.42...0.7.43) (2024-11-16)
+
+
+### Bug Fixes
+
+* **deps:** bump cross-spawn from 7.0.3 to 7.0.5 ([#228](https://github.com/oclif/plugin-test-cjs-2/issues/228)) ([e214cb2](https://github.com/oclif/plugin-test-cjs-2/commit/e214cb25af68a22c85469d505317db2ae836590e))
+
+
+
 ## [0.7.42](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.41...0.7.42) (2024-11-03)
 
 
