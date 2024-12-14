@@ -18,7 +18,7 @@ $ npm install -g @oclif/plugin-test-cjs-2
 $ cjs2 COMMAND
 running command...
 $ cjs2 (--version)
-@oclif/plugin-test-cjs-2/0.7.47 linux-x64 node-v18.20.5
+@oclif/plugin-test-cjs-2/0.7.48 linux-x64 node-v18.20.5
 $ cjs2 --help [COMMAND]
 USAGE
   $ cjs2 COMMAND
@@ -53,7 +53,7 @@ GLOBAL FLAGS
   --json  Format output as json.
 ```
 
-_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.7.47/src/commands/cjs2.ts)_
+_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.7.48/src/commands/cjs2.ts)_
 
 ## `cjs2 help [COMMAND]`
 
@@ -73,7 +73,7 @@ DESCRIPTION
   Display help for cjs2.
 ```
 
-_See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/6.2.18/src/commands/help.ts)_
+_See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/6.2.19/src/commands/help.ts)_
 
 ## `cjs2 plugins`
 
