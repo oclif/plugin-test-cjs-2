@@ -1617,7 +1617,7 @@
     proc-log "^5.0.0"
     which "^5.0.0"
 
-"@oclif/core@^4", "@oclif/core@^4.0.33", "@oclif/core@^4.0.37":
+"@oclif/core@^4", "@oclif/core@^4.0.34", "@oclif/core@^4.0.37":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@oclif/core/-/core-4.2.0.tgz#ab78b247dfd66322d9c9376ebaf3764e3c82fefe"
   integrity sha512-ETM2N/GL7W37Kv1Afv1j1Gh77CynS2ubEPP+p+MnjUXEjghNe7+bKAWhPkHnBuFAVFAqdv0qMpUAjxKLbsmbJw==
@@ -1659,14 +1659,14 @@
     fast-levenshtein "^3.0.0"
 
 "@oclif/plugin-plugins@^5":
-  version "5.4.19"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.4.19.tgz#ef617431f6af1a2b25452c6cda83c2f01f849af3"
-  integrity sha512-JiYBFLe7861i56YwHDnTW4TtfjnLj6brG9nfP5ZE4f9MzKwcQPhCaDzGuxdzoU2CnaUFGXBX+nBGA86csyTWbg==
+  version "5.4.23"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-5.4.23.tgz#1cf96d5e6b914e62d42cf55ef73dff39578a05bc"
+  integrity sha512-IsjgqRJIeZFJ6mGmQb12DsoqTOBukvOtd/4GYMas6Ro5y854szNUBGHBn+IUc0ZmgWjd0q4KerMLX00r800PGg==
   dependencies:
-    "@oclif/core" "^4.0.33"
-    ansis "^3.3.2"
-    debug "^4.3.7"
-    npm "^10.9.1"
+    "@oclif/core" "^4.0.34"
+    ansis "^3.4.0"
+    debug "^4.4.0"
+    npm "^10.9.2"
     npm-package-arg "^11.0.3"
     npm-run-path "^5.3.0"
     object-treeify "^4.0.1"
@@ -2720,10 +2720,10 @@ ansi-styles@^6.1.0:
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-6.2.1.tgz#0e62320cf99c21afff3b3012192546aacbfb05c5"
   integrity sha512-bN798gFfQX+viw3R7yrGWRqnrN2oRkEkUjjl4JNn4E8GxxbjtG3FbrEIIY3l8/hrwUwIeCZvi4QuOTP4MErVug==
 
-ansis@^3.3.1, ansis@^3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/ansis/-/ansis-3.3.2.tgz#15adc36fea112da95c74d309706e593618accac3"
-  integrity sha512-cFthbBlt+Oi0i9Pv/j6YdVWJh54CtjGACaMPCIrEV4Ha7HWsIjXDwseYV79TIL0B4+KfSwD5S70PeQDkPUd1rA==
+ansis@^3.3.1, ansis@^3.3.2, ansis@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/ansis/-/ansis-3.4.0.tgz#d49ebb72f228aa122733a585c600dcba4f5f0838"
+  integrity sha512-zVESKSQhWaPhGaWiKj1k+UqvpC7vPBBgG3hjQEeIx2YGzylWt8qA3ziAzRuUtm0OnaGsZKjIvfl8D/sJTt/I0w==
 
 anymatch@~3.1.2:
   version "3.1.2"
@@ -5535,7 +5535,7 @@ npm-user-validate@^3.0.0:
   resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-3.0.0.tgz#9b1410796bf1f1d78297a8096328c55d3083f233"
   integrity sha512-9xi0RdSmJ4mPYTC393VJPz1Sp8LyCx9cUnm/L9Qcb3cFO8gjT4mN20P9FAsea8qDHdQ7LtcN8VLh2UT47SdKCw==
 
-npm@^10.9.1:
+npm@^10.9.2:
   version "10.9.2"
   resolved "https://registry.yarnpkg.com/npm/-/npm-10.9.2.tgz#784b3e2194fc151d5709a14692cf49c4afc60dfe"
   integrity sha512-iriPEPIkoMYUy3F6f3wwSZAU93E0Eg6cHwIR6jzzOXWSy+SD/rOODEs74cVONHKSx2obXtuUoyidVEhISrisgQ==
