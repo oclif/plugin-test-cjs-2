@@ -18,7 +18,7 @@ $ npm install -g @oclif/plugin-test-cjs-2
 $ cjs2 COMMAND
 running command...
 $ cjs2 (--version)
-@oclif/plugin-test-cjs-2/0.7.73 linux-x64 node-v20.19.2
+@oclif/plugin-test-cjs-2/0.7.74 linux-x64 node-v20.19.2
 $ cjs2 --help [COMMAND]
 USAGE
   $ cjs2 COMMAND
@@ -53,7 +53,7 @@ GLOBAL FLAGS
   --json  Format output as json.
 ```
 
-_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.7.73/src/commands/cjs2.ts)_
+_See code: [src/commands/cjs2.ts](https://github.com/oclif/plugin-test-cjs-2/blob/0.7.74/src/commands/cjs2.ts)_
 
 ## `cjs2 help [COMMAND]`
 
