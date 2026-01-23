@@ -1,3 +1,12 @@
+## [0.7.101](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.100...0.7.101) (2026-01-23)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash from 4.17.21 to 4.17.23 ([#455](https://github.com/oclif/plugin-test-cjs-2/issues/455)) ([8cce0da](https://github.com/oclif/plugin-test-cjs-2/commit/8cce0dad081137aa6ee3947c2a807e55ba661cfb))
+
+
+
 ## [0.7.100](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.99...0.7.100) (2025-11-23)
 
 
