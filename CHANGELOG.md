@@ -1,3 +1,12 @@
+## [0.7.103](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.102...0.7.103) (2026-01-25)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/plugin-plugins from 5.4.54 to 5.4.55 ([#457](https://github.com/oclif/plugin-test-cjs-2/issues/457)) ([1807fb1](https://github.com/oclif/plugin-test-cjs-2/commit/1807fb1d1fb1e0a79de2b04ebbde683acc582291))
+
+
+
 ## [0.7.102](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.101...0.7.102) (2026-01-24)
 
 
