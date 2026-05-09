@@ -1,3 +1,12 @@
+## [0.7.120](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.119...0.7.120) (2026-05-09)
+
+
+### Bug Fixes
+
+* **deps:** bump fast-xml-builder from 1.1.4 to 1.2.0 ([#502](https://github.com/oclif/plugin-test-cjs-2/issues/502)) ([d5b2826](https://github.com/oclif/plugin-test-cjs-2/commit/d5b28261f799c8f51bd407d1e66567db38d8bf04))
+
+
+
 ## [0.7.119](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.118...0.7.119) (2026-05-09)
 
 
