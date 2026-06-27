@@ -1,3 +1,12 @@
+## [0.7.134](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.133...0.7.134) (2026-06-27)
+
+
+### Bug Fixes
+
+* **deps:** bump @sigstore/core from 3.2.0 to 3.2.1 ([#540](https://github.com/oclif/plugin-test-cjs-2/issues/540)) ([d73dd93](https://github.com/oclif/plugin-test-cjs-2/commit/d73dd93f12528ed98247d9fa39e7ff56045db157))
+
+
+
 ## [0.7.133](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.132...0.7.133) (2026-06-22)
 
 
