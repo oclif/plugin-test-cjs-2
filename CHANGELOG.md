@@ -1,3 +1,12 @@
+## [0.7.155](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.154...0.7.155) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** bump postcss-selector-parser from 7.1.1 to 7.1.6 ([#582](https://github.com/oclif/plugin-test-cjs-2/issues/582)) ([aa061bf](https://github.com/oclif/plugin-test-cjs-2/commit/aa061bf0cede46a450240f4aa5aa4829ce0be9b4))
+
+
+
 ## [0.7.154](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.153...0.7.154) (2026-10-09)
 
 
