@@ -1,3 +1,12 @@
+## [0.7.160](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.159...0.7.160) (2026-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @humanfs/node from 0.16.6 to 0.16.8 ([#577](https://github.com/oclif/plugin-test-cjs-2/issues/577)) ([fc88dc8](https://github.com/oclif/plugin-test-cjs-2/commit/fc88dc88b93e05d9c1fc9f84984ff9237bd3bc31))
+
+
+
 ## [0.7.159](https://github.com/oclif/plugin-test-cjs-2/compare/0.7.158...0.7.159) (2026-10-10)
 
 
